@@ -7,19 +7,19 @@ class PersonalInfo extends StatelessWidget {
       mainAxisAlignment: MainAxisAlignment.center,
       children: [
         Text(
-          'Name: Wazir Tatheer Abbas',
+          '    Name: Wazir Tatheer Abbas',
           style: TextStyle(fontSize: 20.0),
         ),
         Text(
-          'Skills: Flutter, Dart, Mobile Development',
+          '    Skills: Flutter, Dart, Mobile Development',
           style: TextStyle(fontSize: 20.0),
         ),
         Text(
-          'Hobbies: Reading, Hiking, Playing Guitar',
+          '    Hobbies: Reading, Hiking, Playing Guitar',
           style: TextStyle(fontSize: 20.0),
         ),
         Text(
-          'Profession: Software Engineer',
+          '    Profession: Software Engineer',
           style: TextStyle(fontSize: 20.0),
         ),
       ],

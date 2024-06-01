@@ -1,4 +1,4 @@
-import 'package:firstclass/profile_screen.dart';
+import 'package:firstclass/personal_info.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -12,6 +12,7 @@ class MyApp extends StatelessWidget {
       title: 'Personal Info',
       home: Scaffold(
         appBar: AppBar(
+          backgroundColor: Colors.grey,
           title: Text('Personal Info'),
         ),
         body: Center(
